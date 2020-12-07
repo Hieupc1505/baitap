@@ -1,0 +1,22 @@
+{
+  "name": "baitap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baitap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hieupc1505/baitap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hieupc1505/baitap/issues"
+  },
+  "homepage": "https://github.com/Hieupc1505/baitap#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
